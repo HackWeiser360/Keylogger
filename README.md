@@ -33,5 +33,8 @@ pip install pynput
 ![github-small](/images/2.png)
 
 
+### Stargazers
+[![Stargazers repo roster for @HackWeiser360/Keylogger](https://reporoster.com/stars/HackWeiser360/Keylogger)](https://github.com/HackWeiser360/Keylogger)
+
 
 -
