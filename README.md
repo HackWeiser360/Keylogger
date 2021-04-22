@@ -17,7 +17,8 @@
 ![downloads](https://img.shields.io/badge/downloads-496%2Fmonth-brightgreen)
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-Gets keyboard,mouse,screenShot,microphone inputs and Sends them to your Mail.
+
+Gets keyboard, mouse, screenShot, microphone inputs and sends them to your Mail.
 Purpose of the project is testing the security of information systems
 
 ## INSTALLATION
