@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/MADE%20IN-Kenya✌-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
 </p>
+
+![coverage](https://img.shields.io/badge/coverage-93%25-yellowgreen)
+![codacy](https://img.shields.io/badge/codacy-A-green)
+![downloads](https://img.shields.io/badge/downloads-496%2Fmonth-brightgreen)
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 Gets keyboard,mouse,screenShot,microphone inputs and Sends them to your Mail.
 Purpose of the project is testing the security of information systems
 
